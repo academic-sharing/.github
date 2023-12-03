@@ -11,4 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is academic_sharing.
+This is Open Source home.
+
+We are committed to exploring new things and sharing them. 🎉🎉
